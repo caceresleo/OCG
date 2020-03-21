@@ -1,0 +1,14 @@
+cambio icono de fondo de pantalla:
+
+                                      coloquo la imagen que deseo de fondo de pantalla en el path:
+
+                                      OCG_lib -> iconos -> fondopantalla.jpg
+
+                                      a la imagen que seleccionemos, se le debe poner el nombre "fondopantalla" para que funcione.
+
+
+contraseña inicial del Administrador:
+
+                                     contraseña: "1234"
+
+                                     luego será siempre el DNI o N° Matricula que le ingresemos al primero de la lista del mes
