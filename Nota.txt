@@ -12,3 +12,6 @@ contraseña inicial del Administrador:
                                      contraseña: "1234"
 
                                      luego será siempre el DNI o N° Matricula que le ingresemos al primero de la lista del mes
+                                     
+Importante:
+            Luego de hacer el armado inicial de un nuevo mes por parte del Administrador, debemos cerrar el programa y volver a abrirlo para que se actualice con los nuevos datos.
